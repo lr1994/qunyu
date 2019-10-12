@@ -22,7 +22,7 @@
                 </div>
             </div>
         </div>
-        <p>©️2019 杭州小指针科技有限公司 版权所有|浙ICP备 19012610号-2</p>
+        <p class="copyright">©️2019 杭州小指针科技有限公司 版权所有|浙ICP备 19012610号-2</p>
     </div>
 </template>
 <script>
@@ -36,7 +36,7 @@ export default {
         color:#fff;
         text-align: center;
         font-size: 14px;
-        padding-top:26px;
+        padding-top:13px;
     }
     .ewm{
         display: flex;
@@ -44,14 +44,15 @@ export default {
     }
     .download{
         display: none;
-        padding:12px 8px;
+        padding:10px 4px ;
+        font-size: 9px;
         img{
-            width:90px;
-            height:90px;
+            width:45px;
+            height:45px;
         }
         >div{
-            margin-left: 10px;
-            padding-top: 28px;
+            margin-left: 5px;
+            padding-top: 10px;
             text-align: left;
             p{
                 margin:0;
@@ -61,8 +62,8 @@ export default {
     .ios{
         margin-right: 15px;
         .pic{
-            background:url(../images/iphone.png) no-repeat center 20px; 
-            background-size: 40px 50px;
+            background:url(../images/iphone.png) no-repeat center 10px; 
+            background-size: 20px 25px;
             height:100%;
         }
         &:hover{
@@ -76,9 +77,9 @@ export default {
     }
     .android{
         .pic{
-            background:url(../images/android.png) no-repeat center 20px;
+            background:url(../images/android.png) no-repeat center 10px;
             height:100%; 
-            background-size: 40px 50px;
+            background-size: 20px 25px;
         }
         &:hover{
             .pic{
@@ -91,13 +92,17 @@ export default {
     }
     .ewm{
         > div{
-            width:175px;
-            height:116px;
+            width:100px;
+            height:66px;
             background: #080b17;   
             .pic{
-                padding-top:78px;
+                padding-top:39px;
                 box-sizing: border-box;
             }  
         }
+    }
+    .copyright{
+        font-size: 12px;
+        margin:20px 0 30px;
     }
 </style>

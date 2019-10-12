@@ -8,11 +8,11 @@
             <p>商务合作<span>yuanxiaoliang@szhizhen.com，xlyuan86@163.com</span></p>
             <div class="ewm">
                 <div class="item">
-                    <img/>
+                    <img src="../images/qyewm.jpeg"/>
                     <div>新浪微博</div>
                 </div>
                 <div class="item">
-                    <img/>
+                    <img src="../images/qyewm.jpeg"/>
                     <div>微信公众号</div>
                 </div>
             </div>

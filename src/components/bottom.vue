@@ -4,7 +4,7 @@
             <div class="ios">
                 <div class="pic">iPhone</div>
                 <div class="download">
-                    <img src="http://u.thsi.cn/fileupload/data/Flashcms/2015/119413814_f31c4b972502b468fa6198cb06144995.jpg"/>
+                    <img src="../images/qyewm.jpeg"/>
                     <div>
                         <p>扫一扫</p>
                         <p>下载</p>
@@ -14,7 +14,7 @@
             <div class="android">
                 <div class="pic">Android</div>
                 <div class="download">
-                    <img src="http://u.thsi.cn/fileupload/data/Flashcms/2015/119413814_f31c4b972502b468fa6198cb06144995.jpg"/>
+                    <img src="../images/qyewm.jpeg"/>
                     <div>
                         <p>扫一扫</p>
                         <p>下载</p>
@@ -36,7 +36,7 @@ export default {
         color:#fff;
         text-align: center;
         font-size: 14px;
-        padding-top:26px;
+        padding-top:36px;
     }
     .ewm{
         display: flex;
@@ -61,7 +61,7 @@ export default {
     .ios{
         margin-right: 15px;
         .pic{
-            background:url(../images/iphone.png) no-repeat center 10px; 
+            background:url(../images/iphone.png) no-repeat center 20px; 
             background-size: 40px 50px;
             height:100%;
         }
@@ -76,7 +76,7 @@ export default {
     }
     .android{
         .pic{
-            background:url(../images/android.png) no-repeat center 10px;
+            background:url(../images/android.png) no-repeat center 20px;
             height:100%; 
             background-size: 40px 50px;
         }
@@ -95,7 +95,7 @@ export default {
             height:116px;
             background: #080b17;   
             .pic{
-                padding-top:68px;
+                padding-top:78px;
                 box-sizing: border-box;
             }  
         }

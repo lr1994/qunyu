@@ -3,9 +3,9 @@
         <div class="left boxwrap">
             <div class="innerBox">
             <div class="title">联系我们</div>
-            <p>联系地址<span>浙江省杭州市萧山区党湾镇幸福村爱华创意谷文化创意园3号楼A区3068</span></p>
-            <p>联系电话<span>13880678652</span></p>
-            <p>商务合作<span>yuanxiaoliang@szhizhen.com，xlyuan86@163.com</span></p>
+            <p>联系地址：<span>浙江省杭州市萧山区党湾镇幸福村爱华创意谷文化创意园3号楼A区3068</span></p>
+            <p>联系电话：<span>13880678652</span></p>
+            <p>商务合作：<span>yuanxiaoliang@szhizhen.com，xlyuan86@163.com</span></p>
             <div class="ewm">
                 <div class="item">
                     <img src="../images/qyewm.jpeg"/>
@@ -52,7 +52,7 @@
 .boxwrap{
     margin-top: 60px;
     .title{
-        font-size: 40px;
+        font-size: 20px;
         margin-bottom: 30px;
     }
 }
@@ -98,7 +98,7 @@
     width:42.5%;
     margin-right: 80px;
     p{
-        font-size: 18px;
+        font-size: 12px;
     }
 }
 .innerBox{

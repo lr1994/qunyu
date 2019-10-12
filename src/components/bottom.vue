@@ -36,7 +36,7 @@ export default {
         color:#fff;
         text-align: center;
         font-size: 14px;
-        padding-top:36px;
+        padding-top:26px;
     }
     .ewm{
         display: flex;

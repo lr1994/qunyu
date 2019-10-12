@@ -41,16 +41,16 @@ export default {
     .slogan{
         background: url(../images/slogan.png) no-repeat center;
         float: left;
-        width:60px;
+        width:30px;
         height:80px;
-        background-size: 60px 30px;
+        background-size: 30px 15px;
     }
     .rightPart{
         float:right;
         display: flex;
-        width:340px;
+        width:170px;
         justify-content: space-between;
-        font-size: 20px;
+        font-size: 12px;
         height:100%;
         align-items: center;
         span{
@@ -59,7 +59,7 @@ export default {
             }
             &.active{
                 font-weight: bold;
-                font-size: 24px;
+                font-size: 14px;
             }
         }
     }

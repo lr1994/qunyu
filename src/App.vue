@@ -46,6 +46,7 @@ export default {
 body{
   margin:0;
   padding:0;  
+  font-family: 'Microsoft Yahei', '微软雅黑', '宋体', arial, 'Hiragino Sans GB', Tahoma, Arial, Helvetica,-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",sans-serif;
 }
 </style>
 <style lang="less" scoped>

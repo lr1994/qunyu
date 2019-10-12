@@ -51,8 +51,8 @@ export default {
 </script>
 <style lang="less" scoped>
     .dialog{
-        width:400px;
-        height:340px;
+        width:40%;
+        height:75%;
         padding: 15px;
         box-sizing: border-box;
         background: #fff;

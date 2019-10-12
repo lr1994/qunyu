@@ -22,7 +22,7 @@
                 </div>
             </div>
         </div>
-        <p class="copyright">©️2019 杭州小指针科技有限公司 版权所有|浙ICP备 19012610号-2</p>
+        <p class="copyright">©️2019 杭州小指针科技有限公司 &nbsp;版权所有&nbsp;|&nbsp;浙ICP备 19012610号-2</p>
     </div>
 </template>
 <script>

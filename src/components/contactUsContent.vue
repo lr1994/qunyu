@@ -106,12 +106,14 @@
     float: right;
 }
 .ewm{
-    position: absolute;
-    bottom: 0;
+    // position: absolute;
+    // bottom: 0;
     display: flex;
+    font-size: 12px;
+    margin-top:235px;
     img{
-        width:100px;
-        height:100px;
+        width:50px;
+        height:50px;
         margin-bottom: 10px;
     }
     .item{

@@ -22,7 +22,7 @@
                 </div>
             </div>
         </div>
-        <p class="copyright">©️2019 杭州小指针科技有限公司 &nbsp;版权所有&nbsp;|&nbsp;浙ICP备 19012610号-2</p>
+        <p class="copyright">©️2019 杭州小指针科技有限公司 &nbsp;版权所有&nbsp;|&nbsp;<a class="links" href="http://www.beian.miit.gov.cn">浙ICP备 19012610号-2</a></p>
     </div>
 </template>
 <script>
@@ -104,5 +104,12 @@ export default {
     .copyright{
         font-size: 12px;
         margin:20px 0 30px;
+    }
+    .links{
+        color:#fff;
+        text-decoration: none;
+        &:hover{
+            color:red;
+        }
     }
 </style>
